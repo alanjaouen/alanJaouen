@@ -40,7 +40,7 @@
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="/img/salesforce.svg" alt="apex" height="40"/>
+  <img src="https://github.com/alanJaouen/alanJaouen/blob/master/img/salesforce.svg" alt="apex" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/alan-jaouen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alan-jaouen" height="30" width="30" /></a>
-  <a href="https://trailblazer.me/id?uid=ajaouen" target="blank"><img align="center" src="img/trailhead.svg" alt="ajaouen" height="30" width="30" /></a>
+  <a href="https://trailblazer.me/id?uid=ajaouen" target="blank"><img align="center" src="https://github.com/alanJaouen/alanJaouen/blob/master/img/trailhead.svg" alt="ajaouen" height="30" width="30" /></a>
   <a href="https://instagram.com/alan.jaouen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alan.jaouen" height="30" width="30" /></a>
   <a href="https://medium.com/@alan.jaouen.96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alan.jaouen.96" height="30" width="30" /></a>
 </p>
