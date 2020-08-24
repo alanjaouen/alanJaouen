@@ -6,7 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=alanjaouen" alt="alanjaouen" />
   <img src="https://badges.pufler.dev/years/puf17640" alt="alanjaouen" />
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.2%20million%20lines%20of%20code-blue)
+
+**Timeline**
+
+![Chart not found](https://github.com/alanJaouen/alanJaouen/blob/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
 </p>
 
 ##
