@@ -13,19 +13,17 @@
 
 ## Recap
 
-- 🔭 I’m currently working on [my ST3 plugin](https://packagecontrol.io/packages/Gitmoji)
-
-- 🌱 I’m currently learning **Salesforce LWC, Apex and AI**
-
 - 🏢 I’m currently working at [MeilleursAgents](https://www.meilleursagents.com/)
 
-- 👨‍💻 All of my projects are available at [alanjaouen.fr](https://www.alanjaouen.fr/portfolio)
-
-- 📝 I regulary write articles on [https://medium.com/](https://medium.com/@alan.jaouen.96)
+- 🔭 I’m currently working on [my ST3 plugin](https://packagecontrol.io/packages/Gitmoji)
 
 - 💬 Ask me about **Telco, Networks, C++ or python programming**
 
+- 📝 I regulary write articles on [https://medium.com/](https://medium.com/@alan.jaouen.96)
+
 - 📫 How to reach me **contact@alanjaouen.fr**
+
+<!-- - 👨‍💻 All of my projects are available at [alanjaouen.fr](https://www.alanjaouen.fr/portfolio) -->
 
 - ⚡ Fun fact **top 5% player in Destiny 2 [https://destinytracker.com](https://destinytracker.com/destiny-2/profile/steam/4611686018471834151/overview)**
 
@@ -35,25 +33,20 @@
 
 ## Technologies
 
+### My top 5 programming languages
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="/img/salesforce.svg" alt="apex" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+### My top 3 SGBD
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/>
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
 </p>
 
 ## Github Stats
@@ -66,7 +59,7 @@
 </a>
 <br>
 
-## 
+##
 
 <p align="center">
   <a href="https://linkedin.com/in/alan-jaouen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alan-jaouen" height="30" width="30" /></a>
