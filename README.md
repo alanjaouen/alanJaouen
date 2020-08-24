@@ -5,15 +5,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alanjaouen" alt="alanjaouen" />
   <img src="https://badges.pufler.dev/years/puf17640" alt="alanjaouen" />
+  
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.2%20million%20lines%20of%20code-blue)
+  <!--END_SECTION:waka-->
 
-**Timeline**
-
-![Chart not found](https://github.com/alanJaouen/alanJaouen/blob/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
 </p>
 
 ##
@@ -53,7 +49,7 @@
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
 ## Github Stats
