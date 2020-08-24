@@ -64,7 +64,9 @@
 <a href="https://github.com/ajaouen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjaouen&count_private=true&hide_border=true&theme=graywhite&layout=compact" />
 </a>
+<br>
 
+## 
 
 <p align="center">
   <a href="https://linkedin.com/in/alan-jaouen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alan-jaouen" height="30" width="30" /></a>
