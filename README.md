@@ -56,10 +56,10 @@
 
 ## Github Stats
 
-<a href="https://github.com/ajaouen">
+<a href="https://github.com/alanjaouen">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanjaouen&show_icons=true&hide_border=true&count_private=true&theme=graywhite&include_all_commits=true"/>
 </a>
-<a href="https://github.com/ajaouen">
+<a href="https://github.com/alanjaouen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanjaouen&count_private=true&hide_border=true&theme=graywhite&layout=compact" />
 </a>
 <br>
