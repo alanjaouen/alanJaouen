@@ -7,7 +7,7 @@
   <img src="https://badges.pufler.dev/years/puf17640" alt="alanjaouen" />
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
