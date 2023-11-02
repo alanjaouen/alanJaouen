@@ -11,7 +11,7 @@
 
 ## Recap
 
-<img src="https://media.giphy.com/media/14g6PIAY8f6FeU/giphy.gif" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://media.giphy.com/media/14g6PIAY8f6FeU/giphy.gif" alt="side Image" align="right" width="250" height="auto" />
 
 
 - 🏢 I’m currently working at [MeilleursAgents](https://www.meilleursagents.com/) (now part of [AVIV group](https://www.aviv-group.com/))
@@ -34,7 +34,7 @@
 
 ## Open source projects
 
-<img src="https://media.giphy.com/media/U8bDgsXcnIEFy/giphy.gif" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://media.giphy.com/media/U8bDgsXcnIEFy/giphy.gif" alt="side Image" align="right" width="250" height="auto" />
 
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Technologies
-<img src="https://media.giphy.com/media/W1ecIq4sEofza/giphy.gif" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://media.giphy.com/media/W1ecIq4sEofza/giphy.gif" alt="side Image" align="right" width="250" height="auto" />
 
 #### My top programming languages
 
