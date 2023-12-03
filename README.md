@@ -68,8 +68,11 @@
  
 ## Github Stats
 
-![alanjaouen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjaouen&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjaouen&bg_color=00000000)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alanjaouen&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanjaouen&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanjaouen&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanjaouen&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alanjaouen&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 ## Am I up?
 
