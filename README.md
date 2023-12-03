@@ -3,8 +3,8 @@
 
 ##
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alanjaouen" alt="alanjaouen" />
-  <img src="https://badges.pufler.dev/years/alanjaouen" alt="alanjaouen" />
+  <img src="https://komarev.com/ghpvc/?username=alanjaouen&style=for-the-badge" alt="alanjaouen" />
+  <img src="https://badges.pufler.dev/visits/alanjaouen/alanjaouen?style=for-the-badge" alt="alanjaouen" />
 </p>
 
 ##
