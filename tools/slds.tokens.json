@@ -1,0 +1,37 @@
+{
+  "_comment": "Resolved SLDS 2 global styling hooks. SVG cannot consume CSS custom properties, so hook values are inlined here and referenced by tools/slds_cards.py.",
+  "radius": 4,
+  "font": "'Salesforce Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif",
+  "themes": {
+    "light": {
+      "surface-1": "#FFFFFF",
+      "surface-2": "#F3F3F3",
+      "border-1": "#E5E5E5",
+      "on-surface-1": "#181818",
+      "on-surface-2": "#444444",
+      "on-surface-3": "#747474",
+      "accent-1": "#0176D3",
+      "on-accent-1": "#FFFFFF",
+      "accent-container-1": "#EAF5FE",
+      "on-accent-container-1": "#014486",
+      "success": "#2E844A",
+      "warning": "#FE9339",
+      "error": "#EA001E"
+    },
+    "dark": {
+      "surface-1": "#181818",
+      "surface-2": "#242424",
+      "border-1": "#2E2E2E",
+      "on-surface-1": "#F3F3F3",
+      "on-surface-2": "#C9C9C9",
+      "on-surface-3": "#AEAEAE",
+      "accent-1": "#1B96FF",
+      "on-accent-1": "#032D60",
+      "accent-container-1": "#032D60",
+      "on-accent-container-1": "#90D0FE",
+      "success": "#45C65A",
+      "warning": "#FE9339",
+      "error": "#FE5C4C"
+    }
+  }
+}
